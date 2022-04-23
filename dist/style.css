@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  font: 15px;
+  margin: 20px;
+}
+.square {
+  width: 50px;
+  padding: 0;
+  height: 50px;
+  font-height: 25px;  
+}
